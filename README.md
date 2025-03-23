@@ -8,16 +8,6 @@
  - 🏡 Sou de Paranaguá 🇧🇷
  - 📚 Gosto de ler nas horas vagas.
  
- ## Tecnologias que eu conheço e sei usar 🚀
- 
- - **Linguagens de Programação**:
-   - Python
- 
- - **Frameworks e Ferramentas**:
-   - **Vscode**, **Git**.
- 
- 
- 
  ## Vamos conversar! 💬
  
  Estou sempre aberto a novos aprendizados. Se você tiver uma ideia ou quiser discutir sobre alguma tecnologia ou projeto, fique à vontade para me chamar!
